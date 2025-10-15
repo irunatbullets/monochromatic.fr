@@ -15,6 +15,7 @@ export default defineNuxtConfig({
   app: {
     baseURL: '',
     head: {
+      title: 'Monochromatic',
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
     },
